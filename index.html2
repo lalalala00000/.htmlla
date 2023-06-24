@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Климова Екатерина</h1>
+      <ul>
+        <li>мне нравится фотографировать природу</li>
+        <li>вязать игрушки </li>
+        <li>делаю сайты</li>
+        <li> люблю танцевать</li>
+       
+      </ul>
+      <p><img src="https://img.freepik.com/free-photo/beautiful-sky-sunset-sun-and-clouds-landscape-nature-background_1150-10228.jpg?w=1060&t=st=1687622376~exp=1687622976~hmac=37298110323a18d5c5e9bc3770da2217994023fcda58c5526e76b805ee6143be" width="1000px" height="550px"/></p>
+      
+    </main>
+    <footer>
+      
+      <a class="social" href=""><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+     
+    </footer>
+  </body>
+</html>
