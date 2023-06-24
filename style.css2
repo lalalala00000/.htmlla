@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+   
+}
+header{
+    background-color: blanchedalmond;
+}
+h1{
+    color: black;
+    text-shadow: 0 5px 5px 0 grey;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+
+
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+main p{
+   text-align: center;
+}
+
+
+
